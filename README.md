@@ -1,7 +1,7 @@
-# ISP Postmaster Links
+# MSP Postmaster Links
 A List of mail service provider links to postmaster pages
 
-| ISP | Postmaster page |
+| MSP | Postmaster page |
 | --| ----- |
 | Free | https://postmaster.free.fr/ 
 | Outlook  Live  Hotmail | https://sendersupport.olc.protection.outlook.com/pm/troubleshooting.aspx
